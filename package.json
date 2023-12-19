@@ -1,1 +1,9 @@
-{}
+{
+  "dependencies": {
+    "gitbook-plugin-hide-element": "0.0.4",
+    "gitbook-plugin-multilingual-index": "^0.1.1",
+    "gitbook-plugin-search-plus": "^1.0.4-alpha-3",
+    "gitbook-plugin-sectionx": "^3.1.0",
+    "gitbook-plugin-tbfed-pagefooter": "0.0.1"
+  }
+}
